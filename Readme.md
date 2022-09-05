@@ -1,20 +1,20 @@
 # Raiz do Projeto:
-CRUD-PHP
-|
-├── App/
-|    ├── ControllerApp.php
-|    └── Model/
-|          |
-|          ├── App.php
-|          └── Conexao.php
-|                  └── Arquivo que faz conexão com o Banco de Dados
-|
-├── Includes/
-|    └── Header.php
-|
-├── cadastrar.php 
-├── editar.php
-└── index.php
+- CRUD-PHP
+- |
+- ├── App/
+- |    ├── ControllerApp.php
+- |    └── Model/
+- |          |
+- |          ├── App.php
+- |          └── Conexao.php
+- |                  └── Arquivo que faz conexão com o Banco de Dados
+- |
+- ├── Includes/
+- |    └── Header.php
+- |
+- ├── cadastrar.php 
+- ├── editar.php
+- └── index.php
 
 # Código SQL da Tabela Cadastro , Ultilizei o MySql:
 ```sql
